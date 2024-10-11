@@ -30,6 +30,6 @@ modules:
     sources:
       - type: archive
         archive-type: "tar-gzip"
-        url: "https://github.com/unobserved-io/Furtherance/archive/refs/tags/24.10.1.tar.gz"
-        sha256: "16d3fde016cce6dec614d9f624211c046691af581d2994e61faf936f4c157ade"
+        url: "https://github.com/unobserved-io/Furtherance/archive/refs/tags/24.10.2.tar.gz"
+        sha256: "63cd63eaf19cb04c9de1df4aba9ca6479ebeb4002c3099a73f6765165c354a45"
       - cargo-sources.json
