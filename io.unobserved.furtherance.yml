@@ -10,6 +10,7 @@ finish-args:
   - --socket=fallback-x11
   - --device=dri
   - --socket=wayland
+  - --talk-name=org.freedesktop.Notifications
   - --talk-name=org.gnome.Mutter.IdleMonitor
   - --filesystem=xdg-documents
 build-options:
@@ -30,6 +31,5 @@ modules:
     sources:
       - type: archive
         archive-type: "tar-gzip"
-        url: "https://github.com/unobserved-io/Furtherance/archive/refs/tags/24.10.2.tar.gz"
-        sha256: "63cd63eaf19cb04c9de1df4aba9ca6479ebeb4002c3099a73f6765165c354a45"
-      - cargo-sources.json
+        url: "https://github.com/unobserved-io/Furtherance/releases/download/24.10.3/furtherance-vendored-24.10.3.tar.gz"
+        sha256: "19fc2ba0ca4d3147a54664c484867e3f2b860ad36755ef19caf2968604aaf3b9"
