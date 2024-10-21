@@ -31,5 +31,5 @@ modules:
     sources:
       - type: archive
         archive-type: "tar-gzip"
-        url: "https://github.com/unobserved-io/Furtherance/releases/download/24.10.4/furtherance-vendored-24.10.4.tar.gz"
-        sha256: "14de0fbb12a86df3855b12ec501ea685e825b6f627ad2c50b4912a588d46d667"
+        url: "https://github.com/unobserved-io/Furtherance/releases/download/24.10.5/furtherance-vendored-24.10.5.tar.gz"
+        sha256: "5f0f6dd16eb8ea94c00ec2903ec3f1aaa13fcd990026d9b923fe9195dc7991e6"
