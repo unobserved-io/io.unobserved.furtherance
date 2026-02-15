@@ -32,5 +32,5 @@ modules:
     sources:
       - type: git
         url: "https://github.com/unobserved-io/Furtherance.git"
-        commit: "07673ab08be9ee8fcd67ec7d3d0141b7c35c63f5"
+        commit: "8321035b2f027db0674c18e476a140579e1aee9c"
       - cargo-sources.json
